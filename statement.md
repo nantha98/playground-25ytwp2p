@@ -1,7 +1,6 @@
 # Welcome!
 
-This Java template lets you get started quickly with a simple one-page playground.
-
+ddd
 ```java runnable
 // { autofold
 public class Main {
